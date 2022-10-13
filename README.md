@@ -15,3 +15,5 @@ doing this for fun.
  ok let's do it
  
  ............
+
+running stash command
